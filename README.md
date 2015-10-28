@@ -1,1 +1,1 @@
-# Bibliography-DocBook-compliant
+# eXist-db projects
