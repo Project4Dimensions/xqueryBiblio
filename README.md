@@ -1,8 +1,8 @@
 # eXist-db projects
 
-This repository hosts projects designed for the eXist-db, a NoSQL document database and application platform. Download eXist-db (http://exist-db.org/exist/apps/homepage/index.html) or see it on GitHub (https://github.com/eXist-db/exist).
+This repository hosts projects designed for eXist-db, a NoSQL document database and application platform. Download eXist-db (http://exist-db.org/exist/apps/homepage/index.html) or see it on GitHub (https://github.com/eXist-db/exist).
 
-At present, there is one bibliography project distributed as a XAR package. Import it using the eXist-db Dashboard Packet Mangager (usually http://localhost:8080/exist/apps/dashboard/index.html). See the setion on “Uploading Your Own packages” (http://exist-db.org/exist/apps/doc/dashboard.xml) for information on uploading xar packages.
+At present, there is one bibliography project distributed as a XAR package. Import it using the eXist-db Dashboard Packet Mangager (usually http://localhost:8080/exist/apps/dashboard/index.html). See the setion on “Uploading Your Own packages” (http://exist-db.org/exist/apps/doc/dashboard.xml) for information on uploading XAR packages.
 
 The bibliography project (biblio-pt.xar) has a Portugues language interface. One in English (biblio-en.xar) will be available shortly.
 
