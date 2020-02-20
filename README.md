@@ -21,6 +21,10 @@ eXist-db.org. 2018.
 
 [2]: http://exist-db.org/exist/apps/homepage/index.html
 
+eXist-db.org. 2020.
+“eXist-db - The Open Source Native XML Database.”
+[https://github.com/eXist-db/exist][3]
+
 [3]: https://github.com/eXist-db/exist
 
 eXist-db Project. 2014. “eXist-db Documentation.”
