@@ -4,8 +4,8 @@ This repository hosts an XQuery bibliography app for the Serra
 da Capivara, Piauí, Brazil ([Jaffe et al. 2014][1]).
 
 Its Portuguese interface allows you to create new entries and
-search by author surname, year and title. An XML database,
-eXist-db ([eXist-db.org 2020][2]), stores and manages the data. 
+search by author, year and title. An XML database, eXist-db
+([eXist-db.org 2020][2]), stores and manages the data. 
 
 The [biblio-pt.xar][XAR] package has 36 sample entries. Upload
 the file using [eXist-db’s Dashboard][4] packet manager.
